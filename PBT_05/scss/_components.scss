@@ -1,0 +1,1 @@
+@use 'variables' as *;@use 'mixins' as *;.card{background:white;border-radius:18px;padding:$spacing-md;@include card-shadow;.card-image{border-radius:14px;overflow:hidden}.card-title{color:$primary-color}&:hover{transform:translateY(-4px)}&.featured{border:2px solid $secondary-color}}
