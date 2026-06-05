@@ -25,8 +25,12 @@ body {
   box-shadow: 0 8px 24px rgba(21, 94, 117, 0.09);
 }
 
-header { grid-area: header; }
-footer { grid-area: footer; }
+header {
+  grid-area: header;
+}
+footer {
+  grid-area: footer;
+}
 .hero {
   grid-area: hero;
   display: grid;
@@ -41,7 +45,9 @@ footer { grid-area: footer; }
   border-radius: 14px;
   padding: 18px;
 }
-.filter { grid-area: filter; }
+.filter {
+  grid-area: filter;
+}
 .content {
   grid-area: content;
   display: grid;
@@ -53,5 +59,9 @@ footer { grid-area: footer; }
   border-radius: 12px;
   padding: 28px;
 }
-.ads { grid-area: ads; }
-.ads img { width: 100%; }
+.ads {
+  grid-area: ads;
+}
+.ads img {
+  width: 100%;
+}

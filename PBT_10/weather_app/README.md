@@ -1,0 +1,1 @@
+API: wttr.in. Cách chạy: mở index.html bằng browser có Internet.

@@ -1,0 +1,1 @@
+API: Picsum Photos. Cách chạy: mở index.html, cuộn gần đáy trang để tải thêm ảnh.

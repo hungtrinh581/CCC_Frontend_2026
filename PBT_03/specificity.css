@@ -1,1 +1,30 @@
-p{color:black}.text{color:blue}.highlight{color:green}p.text{color:teal}.text.highlight{color:purple}main p.text{color:brown}#demo{color:red}p#demo{color:orange}#demo.highlight{color:deeppink}main #demo.text.highlight{color:crimson}
+p {
+  color: black;
+}
+.text {
+  color: blue;
+}
+.highlight {
+  color: green;
+}
+p.text {
+  color: teal;
+}
+.text.highlight {
+  color: purple;
+}
+main p.text {
+  color: brown;
+}
+#demo {
+  color: red;
+}
+p#demo {
+  color: orange;
+}
+#demo.highlight {
+  color: deeppink;
+}
+main #demo.text.highlight {
+  color: crimson;
+}

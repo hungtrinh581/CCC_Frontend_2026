@@ -1,0 +1,1 @@
+API: JSONPlaceholder, Open-Meteo, REST Countries. Cách chạy: mở index.html bằng browser có Internet và bấm Refresh All.
